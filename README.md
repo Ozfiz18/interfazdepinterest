@@ -19,7 +19,7 @@ Se enfoca en replicar la apariencia visual de Piterest,ofreciendo una experienci
   **Google Fonts:** Para fuentes personalizadas.
 
   ### Vista previa del proyecto
-
+![Demo](IMAGENES/pinterest_screen.png)
   ### Contacto
   Si te gustaria invitarme a colaborar en un proyecto, escribeme por [LinkedIn](https://www.linkedin.com/in/laura-guadalupe-montiel-374b0073/).
   
